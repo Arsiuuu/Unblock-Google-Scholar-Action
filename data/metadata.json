@@ -1,0 +1,371 @@
+{
+  "fetched_at": "2026-09-13T07:53:21.995090+00:00",
+  "params": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "author_id": "54jmoNYAAAAJ",
+    "sort": "pubdate",
+    "output": "json",
+    "source": "python"
+  },
+  "results": {
+    "search_metadata": {
+      "id": "6aa6567055cfe1b457b4661d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/buX0IYS6k5w1-le_Xqh0BCzhhU0_hCQ3HaIGSbSozZQ/6aa6567055cfe1b457b4661d.json",
+      "markdown_endpoint": "https://serpapi.com/searches/buX0IYS6k5w1-le_Xqh0BCzhhU0_hCQ3HaIGSbSozZQ/6aa6567055cfe1b457b4661d.md",
+      "created_at": "2026-09-13 07:53:20 UTC",
+      "processed_at": "2026-09-13 07:53:20 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=54jmoNYAAAAJ&hl=en&sortby=pubdate",
+      "raw_html_file": "https://serpapi.com/searches/buX0IYS6k5w1-le_Xqh0BCzhhU0_hCQ3HaIGSbSozZQ/6aa6567055cfe1b457b4661d.html",
+      "total_time_taken": 1.22
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "54jmoNYAAAAJ",
+      "hl": "en",
+      "sort": "pubdate"
+    },
+    "author": {
+      "name": "Tianxiang Jiang",
+      "affiliations": "USTC & Shanghai AI Lab",
+      "email": "Verified email at mail.ustc.edu.cn",
+      "interests": [
+        {
+          "title": "MLLM",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:mllm",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amllm"
+        },
+        {
+          "title": "Video Understanding",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:video_understanding",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avideo_understanding"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=54jmoNYAAAAJ&citpid=27"
+    },
+    "articles": [
+      {
+        "title": "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:cFHS6HbyZ2cC",
+        "citation_id": "54jmoNYAAAAJ:cFHS6HbyZ2cC",
+        "authors": "Y Zhu, C Ma, X Zeng, X Li, Z Zhang, S Li, J Zhang, T Jiang, Y Yang, Z Yan, ...",
+        "publication": "arXiv preprint arXiv:2607.17423, 2026",
+        "cited_by": {
+          "value": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14916768137269054758",
+          "serpapi_link": "https://serpapi.com/search.json?cites=14916768137269054758&engine=google_scholar&hl=en",
+          "cites_id": "14916768137269054758"
+        },
+        "year": "2026"
+      },
+      {
+        "title": "SER: Learning to Ground Video Reasoning with Semantic Evidence Rewards",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:4OULZ7Gr8RgC",
+        "citation_id": "54jmoNYAAAAJ:4OULZ7Gr8RgC",
+        "authors": "S Xia, Z Lai, T Jiang, K Tian, S Zhou, B Li, Y Wang",
+        "publication": "arXiv preprint arXiv:2606.24726, 2026",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2026"
+      },
+      {
+        "title": "InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:pqnbT2bcN3wC",
+        "citation_id": "54jmoNYAAAAJ:pqnbT2bcN3wC",
+        "authors": "Z Yan, S Xia, J Yu, Y Wu, T Jiang, S Li, K Tian, Y Xu, Y He, K Chen, ...",
+        "publication": "Technical Report, 2026",
+        "cited_by": {
+          "value": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6354101653570563535",
+          "serpapi_link": "https://serpapi.com/search.json?cites=6354101653570563535&engine=google_scholar&hl=en",
+          "cites_id": "6354101653570563535"
+        },
+        "year": "2026"
+      },
+      {
+        "title": "Imagine Before You Predict: Interleaved Latent Visual Reasoning for Video Event Prediction",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:g5m5HwL7SMYC",
+        "citation_id": "54jmoNYAAAAJ:g5m5HwL7SMYC",
+        "authors": "T Jiang, L Wu, S Xia, S Li, Z Yan, H Yang, Y Qiao, Y Wang",
+        "publication": "EMNLP 2026 Main, 2026",
+        "cited_by": {
+          "value": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17489907505957284914",
+          "serpapi_link": "https://serpapi.com/search.json?cites=17489907505957284914&engine=google_scholar&hl=en",
+          "cites_id": "17489907505957284914"
+        },
+        "year": "2026"
+      },
+      {
+        "title": "RIVER: A Real-Time Interaction Benchmark for Video LLMs",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:iH-uZ7U-co4C",
+        "citation_id": "54jmoNYAAAAJ:iH-uZ7U-co4C",
+        "authors": "Y Shi*, Q Zhao*, T Jiang*, X Zeng, Y Wang, L Wang",
+        "publication": "ICLR 2026, 2026",
+        "cited_by": {
+          "value": 9,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16879228799197890725",
+          "serpapi_link": "https://serpapi.com/search.json?cites=16879228799197890725&engine=google_scholar&hl=en",
+          "cites_id": "16879228799197890725"
+        },
+        "year": "2026"
+      },
+      {
+        "title": "Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:vV6vV6tmYwMC",
+        "citation_id": "54jmoNYAAAAJ:vV6vV6tmYwMC",
+        "authors": "X Zeng, Z Zhang, Y Zhu, X Li, Z Wang, C Ma, Q Zhang, Z Huang, ...",
+        "publication": "ICML 2026, 2026",
+        "cited_by": {
+          "value": 15,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8735458323434095505",
+          "serpapi_link": "https://serpapi.com/search.json?cites=8735458323434095505&engine=google_scholar&hl=en",
+          "cites_id": "8735458323434095505"
+        },
+        "year": "2026"
+      },
+      {
+        "title": "LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:ZeXyd9-uunAC",
+        "citation_id": "54jmoNYAAAAJ:ZeXyd9-uunAC",
+        "authors": "L Wu*, T Jiang*, Y Dong, H Yang, F Zhang, S Meng, A Xuan, L Song, ...",
+        "publication": "ECCV 2026, 2026",
+        "cited_by": {
+          "value": 12,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10556246908525414007",
+          "serpapi_link": "https://serpapi.com/search.json?cites=10556246908525414007&engine=google_scholar&hl=en",
+          "cites_id": "10556246908525414007"
+        },
+        "year": "2026"
+      },
+      {
+        "title": "VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:dhFuZR0502QC",
+        "citation_id": "54jmoNYAAAAJ:dhFuZR0502QC",
+        "authors": "T Jiang, S Xia, Y Xu, L Wu, X Zeng, L Wang, Y Qiao, Y Wang",
+        "publication": "ECCV 2026, 2025",
+        "cited_by": {
+          "value": 5,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3584487281046433294,17952932019201623149",
+          "serpapi_link": "https://serpapi.com/search.json?cites=3584487281046433294%2C17952932019201623149&engine=google_scholar&hl=en",
+          "cites_id": "3584487281046433294,17952932019201623149"
+        },
+        "year": "2025"
+      },
+      {
+        "title": "ExpVid: A Benchmark for Experiment Video Understanding & Reasoning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:-f6ydRqryjwC",
+        "citation_id": "54jmoNYAAAAJ:-f6ydRqryjwC",
+        "authors": "Y Xu, Y Wu, J Yu, Z Yan, T Jiang, Y He, Q Zhao, K Chen, Y Qiao, L Wang, ...",
+        "publication": "ICLR 2026, 2025",
+        "cited_by": {
+          "value": 3,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13639130774589519986",
+          "serpapi_link": "https://serpapi.com/search.json?cites=13639130774589519986&engine=google_scholar&hl=en",
+          "cites_id": "13639130774589519986"
+        },
+        "year": "2025"
+      },
+      {
+        "title": "FaceSleuth-R: Adaptive Orientation-Aware Attention for Robust Micro-Expression Recognition",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:bEWYMUwI8FkC",
+        "citation_id": "54jmoNYAAAAJ:bEWYMUwI8FkC",
+        "authors": "L Wu*, T Jiang*, H Yang*, W Duan, S Lin, Z Wang, Y Fang, J Keung",
+        "publication": "ICASSP 2026 Oral, 2025",
+        "cited_by": {
+          "value": 1,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18186455955333474773,12396465202713814021,13964177424885082051",
+          "serpapi_link": "https://serpapi.com/search.json?cites=18186455955333474773%2C12396465202713814021%2C13964177424885082051&engine=google_scholar&hl=en",
+          "cites_id": "18186455955333474773,12396465202713814021,13964177424885082051"
+        },
+        "year": "2025"
+      },
+      {
+        "title": "Make Your Training Flexible: Towards Deployment-Efficient Video Models",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:_kc_bZDykSQC",
+        "citation_id": "54jmoNYAAAAJ:_kc_bZDykSQC",
+        "authors": "C Wang, K Li, T Jiang, X Zeng, Y Wang, L Wang",
+        "publication": "ICCV 2025, 2025",
+        "cited_by": {
+          "value": 10,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2812358613952697481",
+          "serpapi_link": "https://serpapi.com/search.json?cites=2812358613952697481&engine=google_scholar&hl=en",
+          "cites_id": "2812358613952697481"
+        },
+        "year": "2025"
+      },
+      {
+        "title": "Timesuite: Improving mllms for long video understanding via grounded tuning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:R3hNpaxXUhUC",
+        "citation_id": "54jmoNYAAAAJ:R3hNpaxXUhUC",
+        "authors": "X Zeng, K Li, C Wang, X Li, T Jiang, Z Yan, S Li, Y Shi, Z Yue, Y Wang, ...",
+        "publication": "ICLR 2025, 2024",
+        "cited_by": {
+          "value": 127,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12910337817920451102,12247676678898598739,4352820858996004957",
+          "serpapi_link": "https://serpapi.com/search.json?cites=12910337817920451102%2C12247676678898598739%2C4352820858996004957&engine=google_scholar&hl=en",
+          "cites_id": "12910337817920451102,12247676678898598739,4352820858996004957"
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Internvideo2: Scaling foundation models for multimodal video understanding",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=54jmoNYAAAAJ&sortby=pubdate&citation_for_view=54jmoNYAAAAJ:TQgYirikUcIC",
+        "citation_id": "54jmoNYAAAAJ:TQgYirikUcIC",
+        "authors": "Y Wang, K Li, X Li, J Yu, Y He, G Chen, B Pei, R Zheng, Z Wang, Y Shi, ...",
+        "publication": "ECCV 2024, 2024",
+        "cited_by": {
+          "value": 805,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6980244541252144138,14318077586277952219,15608339940069065391",
+          "serpapi_link": "https://serpapi.com/search.json?cites=6980244541252144138%2C14318077586277952219%2C15608339940069065391&engine=google_scholar&hl=en",
+          "cites_id": "6980244541252144138,14318077586277952219,15608339940069065391"
+        },
+        "year": "2024"
+      }
+    ],
+    "cited_by": {
+      "table": [
+        {
+          "citations": {
+            "all": 994,
+            "since_2021": 993
+          }
+        },
+        {
+          "h_index": {
+            "all": 6,
+            "since_2021": 6
+          }
+        },
+        {
+          "i10_index": {
+            "all": 5,
+            "since_2021": 5
+          }
+        }
+      ],
+      "graph": [
+        {
+          "year": 2024,
+          "citations": 82
+        },
+        {
+          "year": 2025,
+          "citations": 399
+        },
+        {
+          "year": 2026,
+          "citations": 509
+        }
+      ]
+    },
+    "public_access": {
+      "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=54jmoNYAAAAJ",
+      "available": 3,
+      "not_available": 0
+    },
+    "co_authors": [
+      {
+        "name": "Limin Wang",
+        "link": "https://scholar.google.com/citations?user=HEuN8PcAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=HEuN8PcAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "HEuN8PcAAAAJ",
+        "affiliations": "Nanjing University",
+        "email": "Verified email at nju.edu.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HEuN8PcAAAAJ&citpid=14"
+      },
+      {
+        "name": "Yi Wang",
+        "link": "https://scholar.google.com/citations?user=Xm2M8UwAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=Xm2M8UwAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "Xm2M8UwAAAAJ",
+        "affiliations": "Shanghai AI Laboratory",
+        "email": "Verified email at cse.cuhk.edu.hk",
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+      },
+      {
+        "name": "Songze Li",
+        "link": "https://scholar.google.com/citations?user=8rBMUD4AAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=8rBMUD4AAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "8rBMUD4AAAAJ",
+        "affiliations": "Fudan University; Shanghai AI Laboratory",
+        "email": "Verified email at pjlab.org.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8rBMUD4AAAAJ&citpid=7"
+      },
+      {
+        "name": "Yu Qiao",
+        "link": "https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=gFtI-8QAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "gFtI-8QAAAAJ",
+        "affiliations": "Professor of Shanghai Innovation Institute; Shanghai AI Laboratory",
+        "email": "Verified email at siat.ac.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gFtI-8QAAAAJ&citpid=1"
+      },
+      {
+        "name": "Yansong Shi",
+        "link": "https://scholar.google.com/citations?user=R7J57vQAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=R7J57vQAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "R7J57vQAAAAJ",
+        "affiliations": "Shanghai AI Lab, USTC",
+        "email": "Verified email at pjlab.org.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=R7J57vQAAAAJ&citpid=3"
+      },
+      {
+        "name": "Kunchang Li",
+        "link": "https://scholar.google.com/citations?user=D4tLSbsAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=D4tLSbsAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "D4tLSbsAAAAJ",
+        "affiliations": "ByteDance Seed",
+        "email": "Verified email at bytedance.com",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=D4tLSbsAAAAJ&citpid=5"
+      },
+      {
+        "name": "Xiangyu Zeng",
+        "link": "https://scholar.google.com/citations?user=jS13DXkAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=jS13DXkAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "jS13DXkAAAAJ",
+        "affiliations": "Nanjing University",
+        "email": "Verified email at pjlab.org.cn",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jS13DXkAAAAJ&citpid=9"
+      },
+      {
+        "name": "Ziang Yan",
+        "link": "https://scholar.google.com/citations?user=78lx13MAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=78lx13MAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "78lx13MAAAAJ",
+        "affiliations": "Zhejiang University",
+        "email": "Verified email at pjlab.org.cn",
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+      },
+      {
+        "name": "Chenting Wang",
+        "link": "https://scholar.google.com/citations?user=f81ulHQAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=f81ulHQAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "f81ulHQAAAAJ",
+        "affiliations": "Shanghai Jiao Tong University",
+        "email": "Verified email at sjtu.edu.cn",
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+      },
+      {
+        "name": "Linquan Wu",
+        "link": "https://scholar.google.com/citations?user=TY0UpKwAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=TY0UpKwAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "TY0UpKwAAAAJ",
+        "affiliations": "PhD Student, Department of Computer Science, City University of Hong Kong",
+        "email": "Verified email at my.cityu.edu.hk",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TY0UpKwAAAAJ&citpid=9"
+      },
+      {
+        "name": "Yicheng Xu",
+        "link": "https://scholar.google.com/citations?user=Q6AdA7oAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=Q6AdA7oAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+        "author_id": "Q6AdA7oAAAAJ",
+        "affiliations": "Tokyo Institute of Technology",
+        "email": "Verified email at e.ntu.edu.sg",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Q6AdA7oAAAAJ&citpid=5"
+      }
+    ]
+  }
+}
